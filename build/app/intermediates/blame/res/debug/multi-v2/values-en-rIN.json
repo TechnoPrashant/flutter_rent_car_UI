@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Work/Work/Flutter/workspace/flutter_car_rent_ui/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/Users/baps/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/233b23f3e915e18748b36bfc96051169/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
