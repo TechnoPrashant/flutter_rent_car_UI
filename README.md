@@ -17,7 +17,7 @@ A little knowledge of Dart and Flutter
 A brain to think
 
 # Author(s)
-# Prashant Padmani
+ <h3>Prashant Padmani</h3>
 
 Getting Started
 This project is a starting point for a Flutter application.
