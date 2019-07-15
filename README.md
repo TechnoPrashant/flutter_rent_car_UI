@@ -3,5 +3,5 @@
 - Custom Listview 
 
 # Sample
-<img src="http://mp3any.net/Github_GIF/f_car_UI.gif" width="40" height="40" />
+<img src="http://mp3any.net/Github_GIF/f_car_UI.gif"  />
 
