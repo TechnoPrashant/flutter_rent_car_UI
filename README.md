@@ -11,8 +11,8 @@ Star⭐ the repo if you like what you see😉.
 <img src="https://github.com/Prashant09mca/flutter_rent_car_UI/blob/master/f_car_UI.gif"/>
 
 # Requirements
-Any Operating System (ie. MacOS X, Linux, Windows)
-Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+Any Operating System (ie. MacOS X, Linux, Windows)<p>
+Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)<p>
 A little knowledge of Dart and Flutter
 A brain to think
 
