@@ -23,7 +23,7 @@ Getting Started
 This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
-Lab: <a href="https://flutter.dev/docs/get-started/codelab">Make your First Flutter App</a>
+Lab: <a href="https://flutter.dev/docs/get-started/codelab">Make your First Flutter App</a><p>
 Cookbook: <a href="https://flutter.dev/docs/cookbook">Usefull Flutter Demos</a>
 
 For help getting started with Flutter, view our <a href="https://flutter.dev/docs">Flutter Document</a>, which offers tutorials, samples, guidance on mobile development, and a full API reference.
