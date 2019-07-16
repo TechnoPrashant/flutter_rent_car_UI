@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_car_rent_ui/ChooseCar.dart';
+import 'package:page_view_indicator/page_view_indicator.dart';
 
 class intro extends StatelessWidget {
   @override
@@ -17,6 +18,29 @@ class IntroScreen extends StatefulWidget {
 }
 
 class _IntroScreenState extends State<IntroScreen> {
+  final pageIndexNotifier = ValueNotifier<int>(0);
+
+  PageViewIndicator CustomIndicator(int length) {
+    return PageViewIndicator(
+      pageIndexNotifier: pageIndexNotifier,
+      length: length,
+      normalBuilder: (animationController, index) => Circle(
+            size: 8.0,
+            color: Colors.grey,
+          ),
+      highlightedBuilder: (animationController, index) => ScaleTransition(
+            scale: CurvedAnimation(
+              parent: animationController,
+              curve: Curves.ease,
+            ),
+            child: Circle(
+              size: 12.0,
+              color: Colors.black,
+            ),
+          ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     Color color1 = Color(0xFFD2A560);
@@ -62,11 +86,21 @@ class _IntroScreenState extends State<IntroScreen> {
           context),
     ];
 
-    return Container(
-      height: double.maxFinite,
-      child: PageView.builder(
-          itemCount: pages.length,
-          itemBuilder: (context, position) => pages[position]),
+    return Stack(
+      alignment: FractionalOffset.bottomCenter,
+      children: <Widget>[
+        Container(
+          height: double.maxFinite,
+          child: PageView.builder(
+              onPageChanged: (index) => pageIndexNotifier.value = index,
+              itemCount: pages.length,
+              itemBuilder: (context, position) => pages[position]),
+        ),
+        Padding(
+          padding: EdgeInsets.only(bottom: 50),
+          child: CustomIndicator(pages.length),
+        )
+      ],
     );
   }
 }

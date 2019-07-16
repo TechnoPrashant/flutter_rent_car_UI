@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Work/Work/Flutter/workspace/flutter_car_rent_ui/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+            "outputFile": "/Work/Work/Flutter/workspace/Github/flutter_rent_car_UI/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
             "map": [
                 {
                     "source": "/Users/baps/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/092bb08fdd852094836217d8626ad089/res/values-ms/values.xml",
