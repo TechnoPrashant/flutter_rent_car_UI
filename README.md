@@ -4,11 +4,10 @@
 - Google MAP compatible with Android/iOS
 - Current Location
 
-Star⭐ the repo if you like what you see😉.
-
-
 # UI demo
 <img src="https://github.com/Prashant09mca/flutter_rent_car_UI/blob/master/f_car_UI.gif"/>
+
+<h3> ⭐ Star the repo if you like what you see. ⭐</h3>
 
 # Requirements
 Any Operating System (ie. MacOS X, Linux, Windows)<p>
@@ -27,6 +26,9 @@ Lab: <a href="https://flutter.dev/docs/get-started/codelab">Make your First Flut
 Cookbook: <a href="https://flutter.dev/docs/cookbook">Usefull Flutter Demos</a>
 
 For help getting started with Flutter, view our <a href="https://flutter.dev/docs">Flutter Document</a>, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+# ☕️ Donate
+ <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 
 
