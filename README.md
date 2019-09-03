@@ -17,6 +17,12 @@ A brain to think
 
 # Author(s)
  <h3>Prashant Padmani</h3>
+ 
+ # Connect via Social
+- <a href="https://www.linkedin.com/in/prashant-padmani-14b55649/">Linkedin</a>
+- <a href="https://twitter.com/PadmaniPrashant">Twitter</a>
+- <a href="https://www.facebook.com/technoprashant1336">Facebook Page</a>
+- <a href="https://www.facebook.com/padmaniprashant">Facebook</a>
 
 Getting Started
 This project is a starting point for a Flutter application.
